@@ -25,7 +25,7 @@ npm start
 
 ## Autor ✒️
 
-* **Francisco Javier Jiménez Cohen** - *Trabajo Inicial* - [FranMaster08](https://github.com/FranMaster08)
+* **Francisco Javier Jiménez Cohen** - *Creador* - [FranMaster08](https://github.com/FranMaster08)
 
 
 
